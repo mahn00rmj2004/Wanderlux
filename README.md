@@ -5,7 +5,7 @@ A premium travel experience demo UI built with **React** + **Vite**.
 This is a frontend-only demo designed for client presentations. No database, no backend, no real booking system — just a beautiful, interactive UI showcase.
 
 ### 🔗 Live Demo
-[View Live Site →](https://vercel.com/mahn00rmj2004-3697s-projects/wanderlux)
+[View Live Site →](https://wanderlux-nquwocxr3-mahn00rmj2004-3697s-projects.vercel.app/)
 
 ---
 
